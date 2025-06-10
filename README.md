@@ -9,7 +9,7 @@ how i did?
 
 resources
 
-- [the philosophy of software design]([https://milkov.tech/assets/psd.pdf](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201))
+- [the philosophy of software design]([https://milkov.tech/assets/psd.pdf](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 - [cupid - for joyful programming](https://dannorth.net/cupid-for-joyful-coding/)
 - [the rules of programming: how to write better code](https://www.amazon.com/Rules-Programming-Write-Better-Code/dp/1098133110)
 - and more.
